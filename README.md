@@ -1,4 +1,4 @@
-# ![React + Redux Example App]
+# React + Redux Example App
 
 **General functionality:**
 
